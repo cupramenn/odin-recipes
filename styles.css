@@ -1,0 +1,49 @@
+#main {
+font-size: 64px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+.heads {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p,
+.text {
+    font-family: helvetica, arial, sans-serif;
+}
+
+/* index */
+.home-heading {
+    color: rgb(70, 251, 218);
+    background-color: black;
+}
+
+.link-list {
+    color: rgb(20, 193, 25);
+    font-weight: bold;
+}
+
+
+/* pizza-bombs */
+.p {
+    color: green;
+    background-color: rgb(176, 11, 11);
+}
+
+/* ccc */
+.c {
+    background-color: tan;
+    color: rgb(48, 2, 2)
+}
+
+/* fish */
+.f {
+    background-color: greenyellow;
+    color: purple
+}
+
+.img {
+    text-align: center;
+}
